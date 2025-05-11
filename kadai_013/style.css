@@ -134,4 +134,8 @@
       background-repeat: no-repeat;
       background-position: right top;
     }
+
+    #nav-sp a {
+      display:block;
+    }
   }
