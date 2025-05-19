@@ -138,4 +138,9 @@
     #nav-sp a {
       display:block;
     }
+
+    #nav-sp a:hover {
+      text-decoration: underline;
+    }
+    
   }
